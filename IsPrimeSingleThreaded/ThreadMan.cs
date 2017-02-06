@@ -9,7 +9,7 @@ namespace IsPrimeSingleThreaded
 {
     public class ThreadMan
     {
-        //Changes
+        
         //private const int threads = 3;
         //private const int workitems = 20;
         //private static Object locker = new Object();
